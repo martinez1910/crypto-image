@@ -1,0 +1,131 @@
+----------------------------------------
+File name: image.jpg
+Description: Hurricane
+File size: 19.9 MB
+Dimensions: 10000x10000
+
+-- 'i' matrix index: 1810 --
+########### MEMORY USAGE ###########
+Maximum Memory: 1888485376 	--> ~1.8 GB
+Total Memory: 1748500480	--> ~1.7 GB
+Free Memory: 186515960		--> ~186 MB
+Memory Usage: 1561984808	--> ~1.5 GB
+####################################
+
+-- 'i' matrix index loss: 8190 --
+-- 'i' matrix index loss ratio: 0.8190 --
+
+
+----------------------------------------
+File name: imageCropped.jpg
+Description: Hurricane Cropped
+File size: 33.8 MB
+Dimensions: 7999x7999
+
+-- 'i' matrix index: 3715 --
+########### MEMORY USAGE ###########
+Maximum Memory: 1888485376	--> ~1.8 GB
+Total Memory: 1803550720	--> ~1.8 GB
+Free Memory: 235165632		--> ~235 MB
+Memory Usage: 1568385088	--> ~1.5 GB
+####################################
+
+-- 'i' matrix index loss: 4284 --
+-- 'i' matrix index loss ratio: 0.5356 --
+
+-----------------------------------------
+##### image.jpg VS imageCropped.jpg #####
+File size ratio: 1.70
+Dimensions ratio: 0.7999
+'i' index ratio: 2.05
+'i' index loss relative: -0.2834
+#########################################
+
+
+----------------------------------------
+File name: imageCropped2.jpg
+Description: Hurricane Cropped 2
+File size: 16.6 MB
+Dimensions: 4999x4999
+
+-- 'i' matrix index: 4998 --
+########### MEMORY USAGE ###########
+Maximum Memory: 1888485376	--> ~1.8 GB
+Total Memory: 1612709888	--> ~1.6 GB
+Free Memory: 409289256		--> ~409 MB
+Memory Usage: 1203420632	--> ~1.2 GB
+####################################
+
+-- 'i' matrix index loss: 0 --
+-- 'i' matrix index loss ratio: 0.0000 --
+
+-----------------------------------------
+##### image.jpg VS imageCropped2.jpg #####
+File size ratio: 0.834
+Dimensions ratio: 0.4999
+#########################################
+
+
+
+----------------------------------------
+File name: imageCropped3.jpg
+Description: Hurricane Cropped 3
+File size: 21.6 MB
+Dimensions: 5999x5999
+
+-- 'i' matrix index: 5788 --
+########### MEMORY USAGE ###########
+Maximum Memory: 1888485376	--> ~1.8 GB
+Total Memory: 1888485376	--> ~1.8 GB
+Free Memory: 210595952		--> ~210 MB
+Memory Usage: 1677889424	--> ~1.6 GB
+####################################
+
+-- 'i' matrix index loss: 211 --
+-- 'i' matrix index loss ratio: 0.0352 --
+
+
+
+----------------------------------------
+File name: imageCropped3GoodRes.jpg
+Description: Hurricane Cropped 3 Good Res
+File size: 3.77 MB
+Dimensions: 5999x5999
+
+-- 'i' matrix index: 5998 --
+########### MEMORY USAGE ###########
+Maximum Memory: 1888485376	--> ~1.8 GB
+Total Memory: 1888485376	--> ~1.8 GB
+Free Memory: 155563024		--> ~155 MB
+Memory Usage: 1732922352	--> ~1.7 GB
+####################################
+
+-- 'i' matrix index loss: 0 --
+-- 'i' matrix index loss ratio: 0.0000 --
+
+
+----------------------------------------
+File name: imageLowRes.jpg
+Description: Hurricane Low Res
+File size: 3.40 MB
+Dimensions: 10000x10000
+
+-- 'i' matrix index: 1976 --
+########### MEMORY USAGE ###########
+Maximum Memory: 1888485376	--> ~1.8 GB
+Total Memory: 1768947712	--> ~1.7 GB
+Free Memory: 177061640		--> ~177 MB
+Memory Usage: 1591886072	--> ~1.5 GB
+####################################
+
+-- 'i' matrix index loss: 8024 --
+-- 'i' matrix index loss ratio: 0.8024 --
+
+-----------------------------------------
+##### image.jpg VS imageLowRes.jpg #####
+File size ratio: 0.171
+Dimensions ratio: 1
+'i' index ratio: 1.09
+'i' index loss relative: -0.0166
+#########################################
+
